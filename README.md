@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning ReactJS And Data Structure and Algorithms.
 
-- 👯 I’m looking to collaborate on **<a href="www.linkedin.com/in/vatsal-patel0609" target="_blank" >LinkedIn</a> & <a href="https://github.com/IamVatsal" target="_blank" >GitHub</a>**
+- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/vatsal-patel0609" target="_blank" >LinkedIn</a> & <a href="https://github.com/IamVatsal" target="_blank" >GitHub</a>**
 
 - 📫 Reach me on **<a href="https://www.instagram.com/vatsal06" target="_blank" >Instagram</a>**
 
