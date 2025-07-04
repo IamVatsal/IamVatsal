@@ -1,48 +1,63 @@
 # 👋 Hi there, I'm Vatsal
 
-🎓 I'm a 20-year-old Computer Engineering student at **Ganpat University**, Gujarat, India — passionate about building practical and meaningful software. With a strong foundation in full-stack web development, I'm also diving deep into systems-level programming in **C**.
+🎓 I'm a 20-year-old Computer Engineering student at **Ganpat University**, Gujarat, India — passionate about building practical and meaningful software. With a solid foundation in full-stack development and a growing command of systems-level programming, I'm always striving to bridge theory with real-world impact.
 
 ## 🧠 About Me
 
-- 💻 Comfortable with intermediate to advanced **C** topics: pointers, dynamic memory allocation, file handling, function pointers, and command-line arguments.
-- 🌐 Proficient in modern web technologies: **ReactJS**, **Next.js**, **TypeScript**, and **PostgreSQL**.
-- 🚀 Experienced in deploying projects using platforms like **Vercel** and **Render**.
-- 🎯 Inspired by **Leonardo da Vinci’s** blend of art, science, and engineering — I see software as both a creative craft and a solution-building discipline.
+- 💻 Skilled in C with solid grasp of pointers, dynamic memory, file handling, and command-line arguments.
+- 🌐 Experienced with modern web technologies like **ReactJS**, **Next.js**, **TypeScript**, and **PostgreSQL**.
+- 🔐 Built applications with secure OAuth authentication (Google/NextAuth.js), scalable REST APIs, and efficient DB operations.
+- 🛠️ Deploying projects via **Vercel**, **Render**, and **Docker**.
+- 🎯 Inspired by **Leonardo da Vinci’s** creative-engineering approach — I treat code as both art and architecture.
 
-## 🛠️ Tech Stack & Focus Areas
+## 🛠️ Tech Stack & Tools
 
-- **Languages & Frameworks:** C, JavaScript, TypeScript, ReactJS, Next.js, Node.js, Express
-- **Databases:** PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, Vercel, Render
+- **Languages:** C, C++, Python, TypeScript, JavaScript, HTML/CSS, SQL  
+- **Frameworks/Libraries:** Next.js, React, Tailwind CSS, Node.js, Express.js  
+- **Databases:** PostgreSQL, MongoDB (MongoDB Atlas), SQLite  
+- **Tools & Platforms:** Git, GitHub, Vercel, Render, Docker, Postman, VS Code, MongoDB Compass, Chrome DevTools  
+- **Concepts:** REST APIs, OAuth, SSR/CSR/ISR, File Systems, Authentication, System Design basics  
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
-- ⚙️ DevOps fundamentals and automation workflows
-- 🌐 Building full-stack web applications with **Next.js**
-- 🧠 System Design principles and architecture patterns
-- 🤝 Collaborating on hands-on software projects
+- ⚙️ **DevOps** practices & automation with Docker and deployment tools  
+- 🧠 **System Design** principles and architecture patterns  
+- 📊 **Data Structures & Algorithms (DSA)** with a focus on practical applications  
 
 ## 📌 Featured Projects
 
-- 🔢 **Simple Calculator App**  
-  A responsive calculator built with **Next.js** and **Material UI**, deployed on Vercel.  
-  - [🔗 Live Demo](https://calculator-nextjs-chi.vercel.app/)
-  - [📂 GitHub Repository](https://github.com/IamVatsal/calculator_nextjs)
+- 📝 **MyBlog – Full-Stack Blogging Platform**  
+  Built using **Next.js 14**, **TypeScript**, **MongoDB**, **NextAuth.js**, and **Tailwind CSS**.  
+  Features include SSR, secure Google OAuth login, role-based access, Markdown editor, and fully responsive UI.  
+  ✅ 5× performance boost with MongoDB optimization and indexing.  
+  [🔗 Live Demo](https://blog-app-nextjs-blush.vercel.app/) • [📂 GitHub](https://github.com/IamVatsal/Blog_App_Nextjs)
 
-- 📚 **Book Notes WebApp**  
-  A web application for managing book notes, created with **React** and **Node.js**, deployed on Render.  
-  - [🔗 Live Demo](https://book-notes-webapp.onrender.com/)
-  - [📂 GitHub Repository](https://github.com/IamVatsal/Book-Notes-WebApp)
+- 📚 **Book Notes – Book Review Web App**  
+  A full-stack app with **Node.js**, **Express**, **PostgreSQL**, and **EJS**, allowing users to review and manage books.  
+  Features Google login, book metadata auto-fetch via Open Library API, search & CRUD operations.  
+  [🔗 Live Demo](https://book-notes-webapp.onrender.com/) • [📂 GitHub](https://github.com/IamVatsal/Book-Notes-WebApp)
+
+- 🧮 **Simple Calculator App**  
+  Responsive calculator built with **Next.js** and **Material UI**, deployed on Vercel.  
+  [🔗 Live Demo](https://calculator-nextjs-chi.vercel.app/) • [📂 GitHub](https://github.com/IamVatsal/calculator_nextjs)
 
 - 🐍 **Python Mini Projects**  
-  A collection of Python mini-projects demonstrating basic logic and scripting skills.  
-  - [📂 GitHub Repository](https://github.com/IamVatsal/python_mini_projects)
+  A collection of small Python programs to strengthen scripting logic and core programming skills.  
+  [📂 GitHub Repository](https://github.com/IamVatsal/python_mini_projects)
+
+## 📜 Certifications
+
+- 🎖️ Problem Solving Through Programming in C – NPTEL (Apr 2025)  
+- 🎖️ Fundamentals of Object-Oriented Programming – NPTEL (Apr 2025)  
+- 🎖️ The Complete Full-Stack Web Development Bootcamp – Udemy (Feb 2024)  
+- 🎖️ Python for Beginners – Simplilearn (Aug 2024)  
 
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vatsal-patel0609/)
 - 📷 [Instagram](https://www.instagram.com/vatsal06/)
 - 💻 [GitHub](https://github.com/IamVatsal)
+- 📄 [Resume (PDF)](./Vatsal_Resume.pdf)
 
 ---
 
