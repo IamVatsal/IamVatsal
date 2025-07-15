@@ -2,6 +2,9 @@
 
 🎓 I'm a 20-year-old Computer Engineering student at **Ganpat University**, Gujarat, India — passionate about building practical and meaningful software. With a solid foundation in full-stack development and a growing command of systems-level programming, I'm always striving to bridge theory with real-world impact.
 
+![Profile views](https://komarev.com/ghpvc/?username=IamVatsal&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/IamVatsal?style=social)
+
 ---
 
 ## 🧠 About Me
