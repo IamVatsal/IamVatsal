@@ -78,7 +78,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vatsal-patel0609/)
 - 📷 [Instagram](https://www.instagram.com/vatsal06/)
 - 💻 [GitHub](https://github.com/IamVatsal)
-- 📄 [Resume (PDF)](https://drive.google.com/file/d/1mLFQwN4plZ5jWgvJ61Fcw8LY6I3XzRXD/view?usp=sharing)
+- 📄 [Resume (PDF)](https://drive.google.com/file/d/19Z9soqECkG9uSIK4hb6mL8ujfdqere-v/view?usp=sharing)
 
 ---
 
