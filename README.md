@@ -101,7 +101,7 @@ I treat code as both art and architecture, following Leonardo da Vinci’s princ
 ---
 
 ### ⚙️ Systems & Practicals
-> Repos like `DS_Practicals`, `OOP_Practicals` and `DBMS_Practicals`ot_Controll` — applying core CS concepts, data structures in real-world code.
+> Repos like `DS_Practicals`, `OOP_Practicals` and `DBMS_Practicals` — applying core CS concepts, data structures in real-world code.
 
 ---
 
