@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vatsal
 
-🎓 I'm a 21-year-old Computer Engineering student at **Ganpat University**, Gujarat, India. Passionate about building **software that blends creativity, logic, and real-world utility**. from games and APIs to full-stack web apps and automation systems.
+🎓 I'm a 21-year-old Computer Engineering student at **Ganpat University**, Gujarat, India. Passionate about building **software that blends creativity, logic, and real-world utility**. from games and APIs to full-stack web apps and automation systems, I love turning ideas into systems.
 
 I treat code as both art and architecture, following Leonardo da Vinci’s principle of mastering across disciplines.
 
@@ -27,7 +27,8 @@ I treat code as both art and architecture, following Leonardo da Vinci’s princ
 - **Databases:** PostgreSQL, MongoDB (MongoDB Atlas), SQLite, MySQL
 - **DevOps / Tools:** Docker, Vercel, Render, Git, GitHub, Postman
 - **AI / Data:** Google Gemini API, Prompt Engineering, matplotlib, numpy
-- **Concepts:** OOP, SSR/CSR/ISR, OAuth 2.0, authentication flows, API agents, file handling, system design
+- **GameDev:** Pygame-CE
+- **Concepts:** OOP, SSR/CSR/ISR, OAuth 2.0, API agents, system design
 
 ---
 
@@ -38,7 +39,6 @@ I treat code as both art and architecture, following Leonardo da Vinci’s princ
 - 📊 **Data handling in Python** (NumPy, Pandas, Matplotlib)
 - 🧩 **Data Structures & Algorithms (DSA)** with a focus on practical applications
 - 🧠 **DevOps** (Docker pipelines, deployment automation)
-- 🤖 **Game development logic** using Python (Pygame-CE)
 
 ---
 
@@ -47,15 +47,15 @@ I treat code as both art and architecture, following Leonardo da Vinci’s princ
 ### 🎮 [Death’s Job — 2D Arcade Game](https://github.com/IamVatsal/Deaths-Job)
 > **Python · Pygame CE · OOP Game Architecture**
 >
-> A Flappy-Bird-inspired 2D game with enhanced movement controls, splash screen, parallax background, and physics-driven motion.
+> A Flappy Bird–inspired arcade game where you play as a ghost navigating obstacles in the sky — complete with dynamic physics, parallax backgrounds, and pixel-perfect collisions.
 >
-> - Realistic gravity, momentum, and damping
+> - Smooth gravity, velocity & damping-based movement
 > - Interactive splash screen.
-> - Procedural obstacle generation + recycling
+> - Procedurally generated obstacles with recycling
 > - Custom .env configuration for physics & gameplay
 > - 60 FPS optimized loop
 >
-> **Key insight**: Combined physics simulation with state management for smooth transitions between splash, play, and game-over.
+> **Key insight**: Merging physics simulation with game-state architecture for smooth gameplay flow.
 
 ---
 
@@ -105,15 +105,6 @@ I treat code as both art and architecture, following Leonardo da Vinci’s princ
 
 ---
 
-## 📜 Certifications
-
-- 🎖️ Problem Solving Through Programming in C – NPTEL (Apr 2025)  
-- 🎖️ Fundamentals of Object-Oriented Programming – NPTEL (Apr 2025)  
-- 🎖️ The Complete Full-Stack Web Development Bootcamp – Udemy (Feb 2024)  
-- 🎖️ Python for Beginners – Simplilearn (Aug 2024)
-
----
-
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vatsal-patel0609/)
@@ -123,4 +114,5 @@ I treat code as both art and architecture, following Leonardo da Vinci’s princ
 
 ---
 
-> *Curious. Creative. Consistent.*
+> *Curious. Creative. Consistent.*<br/>
+> Always building. Always learning.
