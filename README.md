@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vatsal
 
-🎓 I'm a 21-year-old Computer Engineering student at **Ganpat University**, Gujarat, India. Passionate about building **software that blends creativity, logic, and real-world utility**. from games and APIs to full-stack web apps and automation systems, I love turning ideas into systems.
+🎓 I'm a 21-year-old Computer Engineering student at **Ganpat University**, Gujarat, India. Passionate about building **software that blends creativity, logic, and real-world utility**. from games, APIs and Neural Networks to full-stack web apps and automation systems, I love turning ideas into systems.
 
 I treat code as both art and architecture, following Leonardo da Vinci’s principle of mastering across disciplines.
 
@@ -14,21 +14,21 @@ I treat code as both art and architecture, following Leonardo da Vinci’s princ
 - 💻 Skilled in **C**, **Python**, and **TypeScript**, with deep experience in **full-stack web development**, **API design**, and **game mechanics**.
 - 🧩 Experienced with modern frameworks like **Next.js**, **React**, **Node.js**, and **Flask**.
 - 🧠 Curious about **LLM integrations**, **DevOps automation**, and **System Design**.
-- 🕹️ Build visually engaging projects — from 2D arcade games to scalable APIs.
-- 🎯 Constantly learning by doing — whether that’s optimizing database queries, refining physics simulations, or experimenting with AI.
+- 🎮 Love building visually engaging or technically deep projects — from games to neural nets
+- 🚀 Prefer learning by *building everything from scratch*
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 - **Languages:** C, C++, Python, TypeScript, JavaScript, Java, SQL
-- **Frontend:** Next.js 14, React, Tailwind CSS, Material UI  
-- **Backend:** Node.js, Express.js, Flask, NextAuth.js, REST APIs
-- **Databases:** PostgreSQL, MongoDB (MongoDB Atlas), SQLite, MySQL
-- **DevOps / Tools:** Docker, Vercel, Render, Git, GitHub, Postman
-- **AI / Data:** Google Gemini API, Prompt Engineering, matplotlib, numpy
+- **Frontend:** Next.js 14, React, Tailwind CSS 
+- **Backend:** Node.js, Express.js, Flask, NextAuth.js
+- **Databases:** PostgreSQL, MongoDB, SQLite, MySQL
+- **DevOps / Tools:** Docker, Git, Vercel, Render, Postman
+- **AI / Data:** NumPy, Pandas, Matplotlib, LLM APIs, Prompt Engineering
 - **GameDev:** Pygame-CE
-- **Concepts:** OOP, SSR/CSR/ISR, OAuth 2.0, API agents, system design
+- **Concepts:** OOP, OAuth 2.0, API agents, System Design
 
 ---
 
@@ -43,6 +43,14 @@ I treat code as both art and architecture, following Leonardo da Vinci’s princ
 ---
 
 ## 📌 Featured Projects
+
+### 🧠 [NanoNet — Neural Network From Scratch (NumPy)](https://github.com/IamVatsal/NanoNet)
+>**Python · NumPy · Pandas**
+>
+> A fully modular multilayer neural network implemented **without any ML frameworks**.  
+> Includes forward/backprop, He initialization, softmax CE loss, training loops, evaluation utilities.  
+
+---
 
 ### 🎮 [Death’s Job — 2D Arcade Game](https://github.com/IamVatsal/Deaths-Job)
 > **Python · Pygame CE · OOP Game Architecture**
@@ -85,25 +93,6 @@ I treat code as both art and architecture, following Leonardo da Vinci’s princ
 > Google login, book metadata auto-fetch, search & CRUD  
 > [GitHub](https://github.com/IamVatsal/Book-Notes-WebApp)
 
----
-
-### 🧮 [Python-Data-Learning](https://github.com/IamVatsal/Python-Data-Learning)
-> **Python · NumPy · Pandas · Matplotlib**
-> A hands-on repo exploring data manipulation, visualization, and machine-learning basics
-> built to deepen understanding through practice.
-
-
----
-
-### 🐍 [Python Mini Projects](https://github.com/IamVatsal/python_mini_projects)
-> Collection of small Python scripts and logic exercises to refine problem-solving, automation, and algorithmic skills.
-
----
-
-### ⚙️ Systems & Practicals
-> Repos like `DS_Practicals`, `OOP_Practicals` and `DBMS_Practicals` — applying core CS concepts, data structures in real-world code.
-
----
 
 ## 📫 Let's Connect
 
