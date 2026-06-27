@@ -86,6 +86,7 @@ A Flappy Bird–inspired arcade game where you play as a ghost navigating obstac
 > Next.js 14 · TypeScript · MongoDB · NextAuth.js · Tailwind CSS
 
 A modern full-stack blogging platform built with Next.js 14, MongoDB, and NextAuth, leveraging React Server Components and hybrid rendering.
+
 [GitHub](https://github.com/IamVatsal/Blog_App_Nextjs)
 
 ---
@@ -94,6 +95,7 @@ A modern full-stack blogging platform built with Next.js 14, MongoDB, and NextAu
 > Node.js · Express · PostgreSQL · EJS  
 
 A full-stack web application for organizing, searching, and managing book notes with authentication and PostgreSQL.  
+
 [GitHub](https://github.com/IamVatsal/Book-Notes-WebApp)
 
 
