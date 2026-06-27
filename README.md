@@ -105,6 +105,7 @@ Google login, book metadata auto-fetch, search & CRUD
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vatsal-patel0609/)
 - 📷 [Instagram](https://www.instagram.com/vatsal06/)
 - 💻 [GitHub](https://github.com/IamVatsal)
+- 📄 [Resume (PDF)](https://iamvatsal.github.io/My-Resume/cv.pdf)
 
 ---
 
