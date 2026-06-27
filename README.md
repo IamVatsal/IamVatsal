@@ -1,71 +1,77 @@
 # 👋 Hi there, I'm Vatsal
 
-🎓 I'm a 21-year-old Computer Engineering student at **Ganpat University**, Gujarat, India. Passionate about building **software that blends creativity, logic, and real-world utility**. from games, APIs and Neural Networks to full-stack web apps and automation systems, I love turning ideas into systems.
+🎓 I'm a Computer Engineering student passionate about AI, embedded systems, and software engineering. I enjoy building systems from first principles to understand how they work beneath abstractions whether that's implementing a neural network framework from scratch, developing IoT systems, or designing modern full-stack applications.
 
-I treat code as both art and architecture, following Leonardo da Vinci’s principle of mastering across disciplines.
-
-### [🙍🏻‍♂️ Portfolio Site](https://www.vatsal.live/)
-
+### [🌐 Portfolio](https://www.vatsal.live/)
 ![Profile views](https://komarev.com/ghpvc/?username=IamVatsal&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/IamVatsal?style=social)
 
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vatsal-patel0609/)
+- 📷 [Instagram](https://www.instagram.com/vatsal06/)
+- 💻 [GitHub](https://github.com/IamVatsal)
+- 📄 [Resume](https://iamvatsal.github.io/My-Resume/cv.pdf)
+
+
+
 ---
 
-## 🧠 About Me
+## 🚀 What I'm Interested In
 
-- 💻 Skilled in **C**, **Python**, and **TypeScript**, with deep experience in **full-stack web development**, **API design**, and **game mechanics**.
-- 🧩 Experienced with modern frameworks like **Next.js**, **React**, **Node.js**, and **Flask**.
-- 🧠 Curious about **LLM integrations**, **DevOps automation**, and **System Design**.
-- 🎮 Love building visually engaging or technically deep projects — from games to neural nets
-- 🚀 Prefer learning by *building everything from scratch*
+- Artificial Intelligence & Machine Learning
+- Embedded Systems & IoT
+- Backend & Full-Stack Development
+- Systems Programming
+- Software Architecture
+
+I enjoy understanding the fundamentals behind software by rebuilding core ideas instead of treating frameworks as black boxes.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 - **Languages:** C, C++, Python, TypeScript, JavaScript, Java, SQL
-- **Frontend:** Next.js, React, Tailwind CSS 
-- **Backend:** Node.js, Express.js, Flask, NextAuth.js
+- **Frameworks & Libraries:** Next.js, React, Node.js, Express.js, FastAPI, Numpy
 - **Databases:** PostgreSQL, MongoDB, SQLite, MySQL, Qdrant
-- **DevOps / Tools:** Docker, Git, Vercel, Render, Postman
-- **AI / Data:** NumPy, Pandas, Matplotlib, LLM APIs, Prompt Engineering
+- **DevOps / Tools:** Docker, Git, Linux, Vercel
+- **AI / Data:** NumPy, Neural Networks, Pandas, Matplotlib, LLM APIs, Prompt Engineering, RAG, Vector Search
 - **GameDev:** Pygame-CE
-- **Concepts:** OOP, OAuth 2.0, API agents, System Design
 
 ---
 
 ## 🌱 Currently Learning
 
-- ⚙️ **LLM-powered API architecture** and agent frameworks
-- 🧠 **System Design** principles and architecture patterns  
-- 🧩 **Data Structures & Algorithms (DSA)** with a focus on practical applications
-- 🧠 **DevOps** (Docker pipelines, deployment automation)
+- Distributed Systems
+- Machine Learning
+- System Design
+- Computer Networks
+- Performance Optimization
 
 ---
 
 ## 📌 Featured Projects
 
-### 🧠 [NanoBook — Full-Stack RAG Research Assistant](https://github.com/IamVatsal/NanoBook)
-> **Next.js 16 · React 19 · Flask · Qdrant · HuggingFace · Gemini 2.5**
->
-A Retrieval-Augmented Generation (RAG) system that allows users to upload documents and query them through a conversational AI interface.
-
-Key Highlights:
-- Multi-format document ingestion (pdf, docx, pptx, csv, html, etc.)
-- Semantic vector search using Qdrant
-- Query rewriting for improved retrieval
-- Cross-encoder reranking (ms-marco-MiniLM-L-6-v2)
-- Context-grounded generation using Gemini 2.5 Flash Lite
-- Persistent chat history with localStorage
-- Clean separation of ingestion, retrieval, and generation layers
-
 ---
 
 ### 🧠 [NanoNet — Neural Network From Scratch (NumPy)](https://github.com/IamVatsal/NanoNet)
->**Python · NumPy · Pandas**
+>**Python · NumPy · Pandas, matplotlib**
 
-A fully modular multilayer neural network implemented **without any ML frameworks**.  
-Includes forward/backprop, He initialization, softmax CE loss, training loops, evaluation utilities.  
+A configurable neural network framework built with Python and NumPy, implementing forward/backward propagation, multiple optimizers, learning-rate schedulers, regularization, and gradient clipping from scratch.
+
+---
+
+### 🪖 [Smart Helmet — IoT Emergency Detection System](https://github.com/IamVatsal/Smart_Helmet)
+> **ESP8266, Arduino, FastAPI, Python, IoT**
+
+An IoT-based emergency detection system integrating ESP8266, MPU6050, FastAPI, and React Native to automatically detect accidents and send emergency alerts with live location.
+
+---
+
+### 📚 [NanoBook — Full-Stack RAG Research Assistant](https://github.com/IamVatsal/NanoBook)
+> **Next.js 16 · React 19 · Flask · Qdrant · HuggingFace · Gemini 2.5**
+>
+A Retrieval-Augmented Generation system using Next.js, Qdrant, LangChain, and LLMs to provide context-grounded responses over uploaded documents.
 
 ---
 
@@ -74,21 +80,12 @@ Includes forward/backprop, He initialization, softmax CE loss, training loops, e
 
 A Flappy Bird–inspired arcade game where you play as a ghost navigating obstacles in the sky — complete with dynamic physics, parallax backgrounds, and pixel-perfect collisions.
 
-- Smooth gravity, velocity & damping-based movement
-- Interactive splash screen.
-- Procedurally generated obstacles with recycling
-- Custom .env configuration for physics & gameplay
-- 60 FPS optimized loop
-
-> **Key insight**: Merging physics simulation with game-state architecture for smooth gameplay flow.
-
 ---
 
 ### 🌐 [MyBlog – Full-Stack Blogging Platform](https://blog-app-nextjs-blush.vercel.app/)
 > Next.js 14 · TypeScript · MongoDB · NextAuth.js · Tailwind CSS
 
-SSR, secure Google OAuth, role-based access, Markdown editor, responsive UI  
-🚀 5× performance boost via DB optimization & indexing  
+A modern full-stack blogging platform built with Next.js 14, MongoDB, and NextAuth, leveraging React Server Components and hybrid rendering.
 [GitHub](https://github.com/IamVatsal/Blog_App_Nextjs)
 
 ---
@@ -96,16 +93,9 @@ SSR, secure Google OAuth, role-based access, Markdown editor, responsive UI
 ### 📚 [Book Notes – Book Review Web App](https://book-notes-webapp.onrender.com/)
 > Node.js · Express · PostgreSQL · EJS  
 
-Google login, book metadata auto-fetch, search & CRUD  
+A full-stack web application for organizing, searching, and managing book notes with authentication and PostgreSQL.  
 [GitHub](https://github.com/IamVatsal/Book-Notes-WebApp)
 
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vatsal-patel0609/)
-- 📷 [Instagram](https://www.instagram.com/vatsal06/)
-- 💻 [GitHub](https://github.com/IamVatsal)
-- 📄 [Resume (PDF)](https://iamvatsal.github.io/My-Resume/cv.pdf)
 
 ---
 
